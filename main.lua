@@ -1,4 +1,4 @@
--- JH_NewCritSound_v1.0 by OchdasisjaSuppi
+-- JH_NewCritSound by OchdasisjaSuppi
 
 nova.require "data/lua/core/common"
 
@@ -20,9 +20,9 @@ data\lua\jh\data\common.lua
 #
 	-- flesh_bullet_critical_hit
 	sound\being\summoner 
-		summoner_melee_01_01.wav			| "Ownage" 		(Announcer, Unreal Tournament 2004)
-		summoner_melee_01_02.wav			| "Wrecker" 	(Announcer, Unreal Tournament 2004)
-		summoner_melee_01_03.wav			| "HolyShit" 	(Announcer, Unreal Tournament 2004)
+		summoner_melee_01_01.wav		| "Ownage" 	(Announcer, Unreal Tournament 2004)
+		summoner_melee_01_02.wav		| "Wrecker" 	(Announcer, Unreal Tournament 2004)
+		summoner_melee_01_03.wav		| "HolyShit" 	(Announcer, Unreal Tournament 2004)
 	
 	sound\event\flesh_blade_critical_hit	  
 		flesh_blade_critical_hit_01.wav		| "BrainSurgeon"(Announcer, Unreal Tournament 2003)
@@ -31,7 +31,7 @@ data\lua\jh\data\common.lua
 		
 	sound\event\flesh_blunt_critical_hit
 		flesh_blunt_critical_hit_01.wav		| "HeadShot" 	(Announcer, Unreal Championship)
-		flesh_blunt_critical_hit_02.wav		| "Unreal"		(Announcer, Unreal Championship)
+		flesh_blunt_critical_hit_02.wav		| "Unreal"	(Announcer, Unreal Championship)
 		flesh_blunt_critical_hit_03.wav		| "Unstoppable"	(Announcer, Unreal Championship)
 		
 	sound\event\metal_blade_critical_hit
@@ -42,7 +42,7 @@ data\lua\jh\data\common.lua
 	sound\event\metal_blunt_critical_hit
 		metal_blunt_critical_hit_01.wav		| "HeadShot" 	(Announcer, Unreal Tournament 1999)
 		metal_blunt_critical_hit_02.wav		| "Dominating"	(Announcer, Unreal Tournament 1999)
-		metal_blunt_critical_hit_03.wav		| "Godlike"		(Announcer, Unreal Tournament 1999)
+		metal_blunt_critical_hit_03.wav		| "Godlike"	(Announcer, Unreal Tournament 1999)
 --]] 
 
 register_blueprint "being"
