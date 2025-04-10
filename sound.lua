@@ -1,4 +1,4 @@
--- JH_NewCritSound_v1.0 by OchdasisjaSuppi
+-- JH_NewCritSound by OchdasisjaSuppi
 
 nova.require "data/lua/jh/sound/common"
 
