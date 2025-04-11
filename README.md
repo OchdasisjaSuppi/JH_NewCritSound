@@ -10,12 +10,16 @@ Each damage type will play different classic announcer soundbites from Quake & U
  - Attached to flesh_bullet_critical_hit
 
 ### Announcer, Unreal Tournament 2003
- - "BrainSurgeon", "WhickedSick" & "Berzerk"
+ - "WhickedSick" & "Berzerk"
  - Attached to flesh_blade_critical_hit
 
 ### Announcer, Unreal Championship
  - "HeadShot", "Unreal" & "Unstoppable"
  - Attached to flesh_blunt_critical_hit
+
+### Announcer, Unreal Championship TLC
+ - "BrainSurgeon"
+ - Attached to flesh_blade_critical_hit
 
 ### Announcer, Quake III Arena
  - "Excellent", "Impressive" & "Perfect"
