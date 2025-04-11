@@ -25,7 +25,7 @@ data\lua\jh\data\common.lua
 		summoner_melee_01_03.wav		| "HolyShit" 	(Announcer, Unreal Tournament 2004)
 	
 	sound\event\flesh_blade_critical_hit	  
-		flesh_blade_critical_hit_01.wav		| "BrainSurgeon"(Announcer, Unreal Tournament 2003)
+		flesh_blade_critical_hit_01.wav		| "BrainSurgeon"(Announcer, Unreal Championship TLC)
 		flesh_blade_critical_hit_02.wav		| "WhickedSick" (Announcer, Unreal Tournament 2003)
 		flesh_blade_critical_hit_03.wav		| "Berzerk" 	(Announcer, Unreal Tournament 2003)
 		
