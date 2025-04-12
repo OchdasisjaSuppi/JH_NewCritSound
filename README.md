@@ -1,37 +1,39 @@
 # JH_NewCritSound
 A mod for Jupiter Hell to change the sound of critical hits. 
 
-Each damage type will play different classic announcer soundbites from Quake & Unreal.
+Each damage type will play different classic announcer Soundbites from Quake & Unreal.
+
 
 ## Added Soundbites
 
-### Announcer, Unreal Tournament 2004
- - "Ownage", "Wrecker" & "HolyShit"
- - Attached to flesh_bullet_critical_hit
-
-### Announcer, Unreal Tournament 2003
- - "WhickedSick" & "Berzerk"
- - Attached to flesh_blade_critical_hit
-
-### Announcer, Unreal Championship
- - "HeadShot", "Unreal" & "Unstoppable"
- - Attached to flesh_blunt_critical_hit
-
-### Announcer, Unreal Championship TLC
- - "BrainSurgeon"
- - Attached to flesh_blade_critical_hit
-
 ### Announcer, Quake III Arena
- - "Excellent", "Impressive" & "Perfect"
- - Attached to metal_blade_critical_hit
+ - metal_blade_critical_hit: "Excellent", "Impressive" & "Perfect"
 
 ### Announcer, Unreal Tournament 1999
- - "HeadShot", "Dominating" & "Godlike"
- - Attached to metal_blunt_critical_hit			
+ - metal_blunt_critical_hit: "Dominating" & "Godlike" 
+ - metal_blade_critical_hit: "KillingSpree" & "Rampage"
+
+### Announcer, Unreal Tournament 2003
+ - flesh_blade_critical_hit: "WhickedSick" & "Berzerk"
+ 
+### Announcer, Unreal Tournament 2004
+ - flesh_bullet_critical_hit: "Ownage", "Wrecker" & "HolyShit"
+
+### Announcer, Unreal Championship
+ - flesh_blunt_critical_hit: "HeadShot", "Unreal" & "Unstoppable"
+
+### Announcer, Unreal Championship TLC
+ - flesh_bullet_critical_hit: "ReignOfBlood", "Toasty" & "Unholy"
+ - flesh_blade_critical_hit: "BrainSurgeon", "Butchered", "CoupDeGrace" & "Nasty" 
+ - flesh_blunt_critical_hit: "Bullseye", "HeadHunter" & "Owned"
+ - metal_blade_critical_hit: "Unkind"
+ - metal_blunt_critical_hit: "Devastation", "KillingBlow", "TitsUp" & "Wasted"		
+
 
 ## Install
 Create a mods folder in your Jupiter Hell game directory if it doesn't exist, then add the folder there.
 For Mac users, navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into mods folder found there.
+
 
 ## Credits
 
