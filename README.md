@@ -1,7 +1,5 @@
 # JH_NewCritSound - A mod for Jupiter Hell
 
-![Mod preview Picture: JH_NewCritSound, Unreal & Quake Soundbites.](/JH_NewCritSound_SP.jpg)
-
 Each damage type will play different classic announcer Soundbites from Quake & Unreal on a critical hit.
 
 
