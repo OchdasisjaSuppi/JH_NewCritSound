@@ -6,7 +6,7 @@ Each damage type will play different classic announcer Soundbites from Quake & U
 
 
 ## Video Demo
-Watch [JH_NewCritSound_Demo](https://imagekit.io/public/share/g4m3m0ds/282425bcd052ba0599eead74ec2d2755e4728a6c78a9a3fb6eff97b75a8710552b3dc6e61a9e04ed3c53496d80bcb8571085a85a0294b49a3e68ecd9bd41c45ed2d6b537a8d509a895972a76be68bb8c)
+Watch [JH_NewCritSound_Demo](https://imagekit.io/player/embed/g4m3m0ds/JH_NewCritSound/JH_NewCritSound_Demo.mp4?updatedAt=1744652787444&thumbnail=https%3A%2F%2Fik.imagekit.io%2Fg4m3m0ds%2FJH_NewCritSound%2FJH_NewCritSound_Demo.mp4%2Fik-thumbnail.jpg%3FupdatedAt%3D1744652787444&updatedAt=1744652787444)
 
 
 ## Added Soundbites
