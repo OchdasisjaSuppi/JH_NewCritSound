@@ -4,7 +4,7 @@ Each damage type will play different classic announcer Soundbites from Quake & U
 
 
 ## Video Preview
-[Watch JH_NewCritSound_Demo](https://imagekit.io/player/embed/g4m3m0ds/JH_NewCritSound/JupiterHell_Mod_NewCritSound_Demo.mp4?updatedAt=1744659237779&thumbnail=https%3A%2F%2Fik.imagekit.io%2Fg4m3m0ds%2FJH_NewCritSound%2FJupiterHell_Mod_NewCritSound_Demo.mp4%2Fik-thumbnail.jpg%3FupdatedAt%3D1744659237779&updatedAt=1744659237779)
+[Watch JH_NewCritSound_Demo](https://imagekit.io/player/embed/g4m3m0ds/JH_NewCritSound/JupiterHell_Mod_NewCritSound_Demo.mp4)
 
 
 ## Added Soundbites
