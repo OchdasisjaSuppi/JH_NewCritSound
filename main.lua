@@ -18,6 +18,14 @@ data\lua\jh\data\common.lua
 #
 ### Changed Sound Effects & Additions (04 and higher)
 #
+	--sound\being\player // Not registered, use "sound\vo\death" instead.
+	sound\vo\death		
+		death_01.wav				| "YouLose"	(Announcer, Quake III Arena)
+		death_02.wav				| "Loser"	(Announcer, Unreal Championship TLC)
+		death_03.wav				| "Failed"	(Announcer, Unreal Tournament 1999)
+		death_04.wav				| "HumiliatingD"(Announcer, Unreal Tournament 2003)
+		death_05.wav				| "CrushingD"	(Announcer, Unreal Championship)
+	
 	-- flesh_bullet_critical_hit
 	sound\being\summoner 
 		summoner_melee_01_01.wav		| "Ownage" 	(Announcer, Unreal Tournament 2004)
@@ -36,12 +44,13 @@ data\lua\jh\data\common.lua
 		flesh_blade_critical_hit_06.wav		| "Nasty" 	(Announcer, Unreal Championship TLC)
 		
 	sound\event\flesh_blunt_critical_hit
-		flesh_blunt_critical_hit_01.wav		| "HeadShot" 	(Announcer, Unreal Championship)
+		flesh_blunt_critical_hit_01.wav		| "HeadShot" 	(Announcer, Unreal Tournament 1999)
 		flesh_blunt_critical_hit_02.wav		| "Unreal"	(Announcer, Unreal Championship)
 		flesh_blunt_critical_hit_03.wav		| "Unstoppable"	(Announcer, Unreal Championship)
 		flesh_blunt_critical_hit_04.wav		| "Bullseye"	(Announcer, Unreal Championship TLC)
 		flesh_blunt_critical_hit_05.wav		| "Owned"	(Announcer, Unreal Championship TLC)
 		flesh_blunt_critical_hit_06.wav		| "HeadHunter"	(Announcer, Unreal Championship TLC)
+		flesh_blunt_critical_hit_07.wav		| "BagEm'"	(Announcer, Unreal Championship)
 		
 	sound\event\metal_blade_critical_hit
 		metal_blade_critical_hit_01.wav		| "Excellent" 	(Announcer, Quake III Arena)
